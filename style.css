@@ -1,0 +1,34 @@
+* {
+    font-family: Helvetica;
+}
+
+h1 {
+    color: #375e97;
+    font-family: Georgia;
+    font-size: 2em;
+    border-bottom: dotted 5px;
+}
+
+h4 {
+    color: #999999;
+    font-style: bold;
+}
+
+h2 {
+    font-style: italic;
+    font-size: 1.5em;
+}
+
+ul {
+    background-color: #eeeeee;
+    border: solid purple;
+}
+
+ul li a{
+    color: #82b8de;
+}
+
+ul a:hover {
+    text-decoration: none;
+    color: #2b99e6;
+}
